@@ -1,6 +1,5 @@
 ---
-title: 指南
-icon: lightbulb
+title: 介绍
 ---
 
 ## 功能亮点
@@ -14,3 +13,6 @@ icon: lightbulb
 
 - [ray](foo/ray.md)
 - ...
+
+
+介绍内容
