@@ -8,13 +8,14 @@ Fast Alden，中文名为“快安”，可理解为“快速安装”，主要�
 
 Fast Alden是一个前后端分离的完整系统，包含后台管理系统和前台业务系统。
 
-- 后台管理系统后端使用Java 21 + SpringBoot 3 + Spring Security + Spring Data JPA技术组合，前端使用Vue3 + Vite + Element Plus + Tailwind CSS技术组合，，
+- 后台管理系统后端使用Java 21 + SpringBoot 3 + Spring Security + Spring Data JPA技术组合，前端使用Vue3 + Vite + Element Plus + Tailwind CSS技术组合。
 
-- 前台业务系统后端与后台系统使用了相同的技术栈，但前台系统针对不同的运行环境（如PC端网页、移动端网页、微信小程序、安卓等）提供了多种前端脚手架工程，每个前端工程都使用了不同的技术栈，大体包括Vue3、原生微信小程序、uni-app以及相关的UI库。
+- 前台业务系统后端与后台系统使用了相同的技术栈，但前端针对不同的运行环境（如PC端网页、移动端网页、微信小程序、安卓等）提供了多个脚手架工程，每个前端工程都使用了不同的技术栈，大体包括Vue3、原生微信小程序、uni-app以及相关的工具库、UI库。
 
-> 为什么没有上TypeScript？
-> 
-> 
+> 问：为什么没有上TypeScript？
+>
+> &nbsp;
+>
 > 答：在本系统的原型版本中使用了TypeScript进行前端开发，但作为个人开发者，如果每一个前端工程都使用ts，为保证每个工程的独立性，需要在每一个前端工程里都要声明一遍相同的实体类型，会导致工作量成倍增加，因此暂时抛弃了它。
 
 #### 在线体验
