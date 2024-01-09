@@ -43,4 +43,4 @@ Fast Alden是一个前后端分离的完整系统，包含后台管理系统和�
 
 - 社区群需要邀请入群，关注公众号后点击`联系方式`加我，我可以拉你入群
 
-![程序员偏安](/assets/image/公众号二维码.jpg)
+![程序员偏安](https://open.weixin.qq.com/qr/code?username=zzcoder_life)
