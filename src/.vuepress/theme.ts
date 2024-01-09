@@ -5,14 +5,9 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://docs.falden.com",
 
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
-  },
-
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://doc.ruoyi.vip/images/logo.png",
 
   repo: "https://gitee.com/breezefaith/fast-alden-dev",
 

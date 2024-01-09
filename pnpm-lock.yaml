@@ -2,7 +2,6 @@ lockfileVersion: 5.4
 
 specifiers:
   '@vuepress/client': 2.0.0-rc.0
-  '@vuepress/plugin-back-to-top': 2.0.0-rc.0
   '@vuepress/plugin-docsearch': 2.0.0-rc.0
   '@vuepress/plugin-search': 2.0.0-rc.0
   vue: ^3.4.3
@@ -11,7 +10,6 @@ specifiers:
 
 devDependencies:
   '@vuepress/client': 2.0.0-rc.0
-  '@vuepress/plugin-back-to-top': 2.0.0-rc.0
   '@vuepress/plugin-docsearch': 2.0.0-rc.0
   '@vuepress/plugin-search': 2.0.0-rc.0
   vue: 3.4.5
