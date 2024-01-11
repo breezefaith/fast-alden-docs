@@ -21,7 +21,7 @@ Fast Alden是一个前后端分离的完整系统，包含后台管理系统和�
 #### 在线体验
 
 - 快安官网：[http://falden.com](http://falden.com)
-- 项目地址：[https://gitee.com/breezefaith/fast-alden-dev](https://gitee.com/breezefaith/fast-alden-dev)
+- 项目地址：[https://gitee.com/breezefaith/fast-alden](https://gitee.com/breezefaith/fast-alden)
 - 演示地址：
     - 前台系统：
         - PC端：[http://demo.falden.conm](http://demo.falden.conm)
@@ -45,3 +45,8 @@ Fast Alden是一个前后端分离的完整系统，包含后台管理系统和�
 - 社区群需要邀请入群，关注公众号后点击`联系方式`加我，我可以拉你入群
 
 ![程序员偏安](https://open.weixin.qq.com/qr/code?username=zzcoder_life)
+
+#### 未来计划
+
+1. 提供Python版、Node.js版、Go版后端工程
+2. 提供React版、Angular版后台管理系统

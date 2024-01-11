@@ -9,7 +9,7 @@ export default hopeTheme({
 
   logo: "https://doc.ruoyi.vip/images/logo.png",
 
-  repo: "https://gitee.com/breezefaith/fast-alden-dev",
+  repo: "https://gitee.com/breezefaith/fast-alden",
 
   docsDir: "src",
 
